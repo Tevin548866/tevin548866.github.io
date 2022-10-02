@@ -1,0 +1,35 @@
+body {
+    background: url(image/background2.jpg);
+    background-size: cover;
+}
+h1 {
+    background-image: url(image/background.jpg) ;
+    background-size: cover;
+    height: 100px;
+    width: 100%;
+    font: 700 40px "微软雅黑";
+    line-height: 100px;
+}
+h2{
+    font-weight:200;
+    font-size: 10px;
+    font-family: serif "微软雅黑";
+    height: 16px;
+    line-height: 16px;
+}
+.center{
+    text-align: center;
+}
+a {
+    display: inline-block;
+    text-decoration: none;
+    width: 150px;
+    height: 50px;
+    line-height: 50px;
+    font: 900 16px serif "微软雅黑";
+    color: #000;
+}
+a:hover{
+    color: rgb(155, 154, 118);
+    font-size: 150%;
+}
